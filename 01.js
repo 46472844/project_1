@@ -1,1 +1,1 @@
-大傻逼
+console.log('hello_world');
